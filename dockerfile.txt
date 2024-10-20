@@ -1,0 +1,3 @@
+foxm niginx: latest
+run apt update -y
+expose 8080
